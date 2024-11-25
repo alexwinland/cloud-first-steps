@@ -1,6 +1,6 @@
 # Cloud First Steps - EC2 🌥️🚀
 
-Esse projeto é parte de uma jornada de aprendizado na AWS (Amazon Web Services)! O objetivo é explorar e usar o Amazon EC2 para criar e configurar instâncias em múltiplas zonas de disponibilidade. Vamos lá? 😎
+Este projeto faz parte de uma jornada de aprendizado no Cloud Quest da AWS (Amazon Web Services)! O objetivo é explorar e utilizar o Amazon EC2 para criar e configurar instâncias em múltiplas zonas de disponibilidade. Vamos nessa? 😎
 
 <img src="imagem/Projeto.png">
 
